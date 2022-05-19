@@ -31,16 +31,22 @@ Library yang digunakan :
         "react-native-screens": "^3.13.1"
 
 ##2 GETTING STARTED##
+
 Prasyarat : Perlu menginstall react-native melalui website : https://reactnative.dev/
             install library (bisa dikembangkan menggunakan Conda/Docker untuk mempermudah)
             API : https://imdb-api.com ("menggunakan API dari IMDB untuk data data filmnya")
             install Postman ("Sebagai aplikasi untuk testing API untuk memastikan")
 
 ##3CONTOH PROGRAM DAN PENGGUNAAN##
-    Menu Utama dapat dilihat pada gambar : \UASPAM14117017\UASPAMDIZA\MenuUtama.jpg
-    Menu Hasil Pencarian dapat dilihat pada gambar : \UASPAM14117017\UASPAMDIZA\HasilPencarian.jpg
+    
+   Menu Utama dapat dilihat pada gambar : \UASPAM14117017\UASPAMDIZA\MenuUtama.jpg
+   ![MenuUtama](https://user-images.githubusercontent.com/50200664/169256597-7484653d-f2ad-4d58-aceb-b3e98d76927f.jpg)
 
-    ##Install Application for Testing##
-    File : \UASPAM14117017\app-release.apk
+   Menu Hasil Pencarian dapat dilihat pada gambar : \UASPAM14117017\UASPAMDIZA\HasilPencarian.jpg
+   ![HasilPencarian](https://user-images.githubusercontent.com/50200664/169256633-56be55f3-2ecf-4488-8af4-edf354741850.jpg)
+
+
+   ##Install Application for Testing##
+   File : \UASPAM14117017\app-release.apk
     
     
